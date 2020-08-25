@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558dd417-c938-4591-ba32-68006ed0b9b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g0mh4n0CNg1P3FgDIRPnoybEDS" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Rahul.RahulPractice" />
+      <recent name="Rahul.End_To_End_Test" />
+      <recent name="Rahul.Dropdowns_Checkbox" />
+      <recent name="Rahul" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScreenShot2_spicificPart">
+    <configuration name="NewWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rahul.RahulPractice.NewWindow" />
+      <module name="SeleniumWithRahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rahul.RahulPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rahul.RahulPractice.RelativeLocators" />
+      <module name="SeleniumWithRahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rahul.RahulPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShot2_spicificPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rahul.RahulPractice.ScreenShot2_spicificPart" />
+      <module name="SeleniumWithRahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rahul.RahulPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShots1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rahul.RahulPractice.ScreenShots1" />
+      <module name="SeleniumWithRahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rahul.RahulPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rahul.RahulPractice.TableSort" />
+      <module name="SeleniumWithRahul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rahul.RahulPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScreenShot2_spicificPart" />
+        <item itemvalue="Application.NewWindow" />
+        <item itemvalue="Application.RelativeLocators" />
+        <item itemvalue="Application.TableSort" />
+        <item itemvalue="Application.ScreenShots1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558dd417-c938-4591-ba32-68006ed0b9b3" name="Default Changelist" comment="" />
+      <created>1597259999679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597259999679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597521045840">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597521045840" />
+    <state width="1549" height="206" key="GridCell.Tab.0.bottom" timestamp="1597820121064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597820121064" />
+    <state width="1549" height="396" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1597604543076" />
+    <state width="1549" height="206" key="GridCell.Tab.0.center" timestamp="1597820121064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="206" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597820121064" />
+    <state width="1549" height="396" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1597604543076" />
+    <state width="1549" height="206" key="GridCell.Tab.0.left" timestamp="1597820121064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="206" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597820121064" />
+    <state width="1549" height="396" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1597604543076" />
+    <state width="1549" height="206" key="GridCell.Tab.0.right" timestamp="1597820121064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="206" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597820121064" />
+    <state width="1549" height="396" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1597604543076" />
+    <state width="1549" height="310" key="GridCell.Tab.1.bottom" timestamp="1597610173569">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="310" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597610173569" />
+    <state width="1549" height="310" key="GridCell.Tab.1.center" timestamp="1597610173568">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="310" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597610173568" />
+    <state width="1549" height="310" key="GridCell.Tab.1.left" timestamp="1597610173568">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="310" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597610173568" />
+    <state width="1549" height="310" key="GridCell.Tab.1.right" timestamp="1597610173568">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1549" height="310" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597610173568" />
+    <state x="374" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1598108118100">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="374" y="212" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598108118100" />
+    <state x="358" y="88" width="1079" height="772" key="find.popup" timestamp="1597260557624">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="358" y="88" width="1079" height="772" key="find.popup/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597260557624" />
+    <state x="0" y="0" key="new project wizard" timestamp="1598127193982">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1598127193982" />
+    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597766075537">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1600.860/1600.0.1600.860@0.0.1600.860" timestamp="1597766075537" />
+  </component>
+</project>
